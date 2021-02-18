@@ -7,7 +7,7 @@ function App() {
       <div id="title">Recent Projects</div>
       <div class="row">
         <div class="column left">
-          <div class="fancy">
+          <div>
             <button class="fancy" variant="primary" size="lg" block>
               <a href="https://trivia-redux.herokuapp.com/">TRIVIA</a>
             </button>
@@ -28,13 +28,15 @@ function App() {
               </a>
             </button>
           </div>
-        </div>{" "}
+        </div>
         <div class="column right">
           <div id="about">
             <p>Name: Ben</p>
             <p>Contact email: ben@protonmail.com</p>
             <p>Location: Massachusetts</p>
             <p>About: Ben is searching for employment. </p>
+            <p>Technologies: React, Redux, MongoDB, Mongoose,</p>
+            <p> express, javascript, html, css, SQL, bootstrap</p>
           </div>
         </div>
         <div></div>
