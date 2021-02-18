@@ -9,21 +9,23 @@ function App() {
         <div class="column left">
           <div>
             <button class="fancy" variant="primary" size="lg" block>
-              <a href="https://trivia-redux.herokuapp.com/">Trivia</a>
+              <a href="https://https://project-repo.herokuapp.com/LandingPage">
+                Trivia
+              </a>
             </button>
 
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://emojii-matching.herokuapp.com/">
+              <a href="https://project-repo.herokuapp.com/UserPage">
                 Emojii Matching Game
               </a>
             </button>
             <button class="fancy" variant="primary" size="lg" block>
-              <a href="https://wordsearch-generator.herokuapp.com/">
+              <a href="https://project-repo.herokuapp.com/Scores">
                 Word Search Generator
               </a>
             </button>
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://benwperkins.github.io/BitProject/">
+              <a href="https://project-repo.herokuapp.com/SignUp/">
                 Cryptocurrency Project
               </a>
             </button>
