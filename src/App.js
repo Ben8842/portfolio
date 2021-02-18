@@ -9,28 +9,32 @@ function App() {
         <div class="column left">
           <div>
             <button class="fancy" variant="primary" size="lg" block>
-              <a href="https://https://project-repo.herokuapp.com/LandingPage">
-                Trivia
-              </a>
+              <a href="https://trivia-redux.herokuapp.com/">Trivia</a>
             </button>
 
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://project-repo.herokuapp.com/UserPage">
+              <a href="https://602eb4ffddb4bb09bd3b196f--vibrant-spence-207a4e.netlify.app/">
                 Emojii Matching Game
               </a>
             </button>
             <button class="fancy" variant="primary" size="lg" block>
-              <a href="https://project-repo.herokuapp.com/Scores">
+              <a href="https://wordsearch-generator.herokuapp.com/">
                 Word Search Generator
               </a>
             </button>
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://project-repo.herokuapp.com/SignUp/">
+              <a href="https://benwperkins.github.io/BitProject/">
                 Cryptocurrency Project
+              </a>
+            </button>
+            <button class="fancy" variant="secondary" size="lg" block>
+              <a href="https://602eb62581bfec0b60715d27--tender-benz-d42ce4.netlify.app/">
+                Eight Queens Puzzle
               </a>
             </button>
           </div>
         </div>
+
         <div class="column right">
           <div id="about">
             <p>Name: Ben</p>
