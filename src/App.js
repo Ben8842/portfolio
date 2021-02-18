@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <div id="title">Recent Projects</div>
+      <div id="title">Ben's Projects</div>
       <div class="row">
         <div class="column left">
           <div>
