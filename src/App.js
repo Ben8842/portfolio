@@ -3,14 +3,13 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App" id="title">
-      Portfolio.
-      <div>
-        <div class="fancy">
-          <button class="fancy" variant="primary" size="lg" block>
-            <a href="https://trivia-redux.herokuapp.com/">TRIVIA</a>
-          </button>
-        </div>
+    <div>
+      <div id="title">Recent Projects</div>
+      <div class="fancy">
+        <button class="fancy" variant="primary" size="lg" block>
+          <a href="https://trivia-redux.herokuapp.com/">TRIVIA</a>
+        </button>
+
         <button class="fancy" variant="secondary" size="lg" block>
           <a href="https://emojii-matching.herokuapp.com/">EMOJII MATCHING</a>
         </button>
@@ -24,7 +23,12 @@ function App() {
             Cryptocurrency Project
           </a>
         </button>
-        <div></div>
+        <div class="fancy">
+          <p>Name: Ben</p>
+          <p>Contact email: ben@protonmail.com</p>
+          <p>Location: Massachusetts</p>
+          <p>About: Ben is searching for employment. </p>
+        </div>
         <div></div>
         <div></div>
       </div>
