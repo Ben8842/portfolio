@@ -26,10 +26,35 @@
   border-color: green;
   border-style: solid;
   font-size: 20px;
+  border-width: 50px;
+  margin: 30px;
+  padding: 5px;
 }
 
 #title {
   font-size: 40px;
   background-color: yellow;
   font-style: bold;
+  margin: 30px;
+  padding: 5px;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+#about {
+  font-size: 35px;
+  background-color: lightcoral;
+  padding: 8px;
 }
