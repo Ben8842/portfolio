@@ -9,17 +9,17 @@ function App() {
         <div class="column left">
           <div>
             <button class="fancy" variant="primary" size="lg" block>
-              <a href="https://trivia-redux.herokuapp.com/">TRIVIA</a>
+              <a href="https://trivia-redux.herokuapp.com/">Trivia</a>
             </button>
 
             <button class="fancy" variant="secondary" size="lg" block>
               <a href="https://emojii-matching.herokuapp.com/">
-                EMOJII MATCHING
+                Emojii Matching Game
               </a>
             </button>
             <button class="fancy" variant="primary" size="lg" block>
               <a href="https://wordsearch-generator.herokuapp.com/">
-                WORD SEARCH GENERATOR
+                Word Search Generator
               </a>
             </button>
             <button class="fancy" variant="secondary" size="lg" block>
@@ -34,9 +34,9 @@ function App() {
             <p>Name: Ben</p>
             <p>Contact email: ben@protonmail.com</p>
             <p>Location: Massachusetts</p>
-            <p>About: Ben is searching for employment. </p>
-            <p>Technologies: React, Redux, MongoDB, Mongoose,</p>
-            <p> express, javascript, html, css, SQL, bootstrap</p>
+            <p>About: Ben is currently searching for employment. </p>
+            <p>Technologies: React, Node, Redux, MongoDB, Mongoose,</p>
+            <p> Express, JavaScript, HTML, CSS, SQL, JQuery</p>
           </div>
         </div>
         <div></div>
