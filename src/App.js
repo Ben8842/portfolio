@@ -8,6 +8,21 @@ function App() {
       <div class="row">
         <div class="column left">
           <div>
+            <button class="fancy" variant="secondary" size="lg" block>
+              <a href="https://602eb62581bfec0b60715d27--tender-benz-d42ce4.netlify.app/">
+                Eight Queens Puzzle
+              </a>
+            </button>
+            <button class="fancy" variant="secondary" size="lg" block>
+              <a href="https://602eb8f53052f10edef3345c--jolly-meninsky-2047bc.netlify.app/">
+                Pascal's Triangle and the Sierpinsky Triangle
+              </a>
+            </button>
+            <button class="fancy" variant="secondary" size="lg" block>
+              <a href="https://602ebac51289420df6521193--optimistic-babbage-2ed085.netlify.app/">
+                Maze Algorithm
+              </a>
+            </button>
             <button class="fancy" variant="primary" size="lg" block>
               <a href="https://trivia-redux.herokuapp.com/">Trivia</a>
             </button>
@@ -17,19 +32,21 @@ function App() {
                 Emojii Matching Game
               </a>
             </button>
-            <button class="fancy" variant="primary" size="lg" block>
-              <a href="https://wordsearch-generator.herokuapp.com/">
-                Word Search Generator
-              </a>
-            </button>
+
             <button class="fancy" variant="secondary" size="lg" block>
               <a href="https://benwperkins.github.io/BitProject/">
                 Cryptocurrency Project
               </a>
             </button>
+
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://602eb62581bfec0b60715d27--tender-benz-d42ce4.netlify.app/">
-                Eight Queens Puzzle
+              <a href="https://602ebd1402f21e0d964f14e7--wonderful-mahavira-3cec2e.netlify.app/">
+                Trivia Application Tutorial
+              </a>
+            </button>
+            <button class="fancy" variant="primary" size="lg" block>
+              <a href="https://wordsearch-generator.herokuapp.com/">
+                Word Search Generator
               </a>
             </button>
           </div>
