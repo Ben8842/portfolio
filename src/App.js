@@ -9,17 +9,17 @@ function App() {
         <div class="column left">
           <div>
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://602eb62581bfec0b60715d27--tender-benz-d42ce4.netlify.app/">
+              <a href="https://tender-benz-d42ce4.netlify.app/">
                 Eight Queens Puzzle
               </a>
             </button>
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://602eb8f53052f10edef3345c--jolly-meninsky-2047bc.netlify.app/">
+              <a href="https://jolly-meninsky-2047bc.netlify.app/">
                 Pascal's Triangle and the Sierpinsky Triangle
               </a>
             </button>
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://602ebac51289420df6521193--optimistic-babbage-2ed085.netlify.app/">
+              <a href="https://optimistic-babbage-2ed085.netlify.app/">
                 Maze Algorithm
               </a>
             </button>
@@ -28,7 +28,7 @@ function App() {
             </button>
 
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://602eb4ffddb4bb09bd3b196f--vibrant-spence-207a4e.netlify.app/">
+              <a href="https://vibrant-spence-207a4e.netlify.app/">
                 Emojii Matching Game
               </a>
             </button>
@@ -40,7 +40,7 @@ function App() {
             </button>
 
             <button class="fancy" variant="secondary" size="lg" block>
-              <a href="https://602ebd1402f21e0d964f14e7--wonderful-mahavira-3cec2e.netlify.app/">
+              <a href="https://wonderful-mahavira-3cec2e.netlify.app/">
                 Trivia Application Tutorial
               </a>
             </button>
