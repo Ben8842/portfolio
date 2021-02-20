@@ -52,7 +52,7 @@ function App() {
           </div>
         </div>
 
-        <div class="column right">
+        <div>
           <div id="about">
             <p>Name: Ben</p>
             <p>Contact email: ben@protonmail.com</p>

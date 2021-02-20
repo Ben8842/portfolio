@@ -58,3 +58,66 @@
   background-color: lightcoral;
   padding: 5px;
 }
+
+@media only screen and (max-width: 700px) {
+  .App {
+    text-align: center;
+  }
+
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .App-link {
+    color: #61dafb;
+  }
+
+  .fancy {
+    color: blue;
+    height: 50px;
+    width: 90px;
+    background-color: lightblue;
+    border-radius: 25px;
+    border-color: green;
+    border-style: solid;
+    font-size: 12px;
+    border-width: 5px;
+    margin: 10px;
+    padding: 5px;
+  }
+
+  #title {
+    font-size: 20px;
+    background-color: yellow;
+    font-style: bold;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+  }
+
+  .column {
+    float: left;
+    padding: 5px;
+  }
+
+  .left {
+    width: 40%;
+  }
+
+  .right {
+    width: 60%;
+  }
+
+  #about {
+    font-size: 12px;
+    background-color: lightcoral;
+    padding: 5px;
+  }
+}
